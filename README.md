@@ -13,7 +13,7 @@ title: PhotoName サポート
 |------|------|
 | 写真はクラウドに送信されますか？ | **いいえ。** すべてローカルに保存されます。 |
 | 日本語名が化ける / 文字数制限は？ | iOS の制限内 (255 文字) であれば問題ありません。 |
-| 不具合報告の方法は？ | [GitHub Issue](https://github.com/<user>/photename-support/issues) <br/> または support@example.com へご連絡ください。 |
+| 不具合報告の方法は？ | [GitHub Issue](https://github.com/<user>/photename-support/issues) <br/> または support-noa@gmail.com へご連絡ください。 |
 
 ## リリースノート
 
